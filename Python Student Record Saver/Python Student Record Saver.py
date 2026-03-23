@@ -3,7 +3,7 @@ while True:
     print("\nStudent Record Menu") 
     print("1 - Add Student Record") 
     print("2 - View Saved Records") 
-    print("3 - Exit") 
+    print("3 - Exit Program") 
 
     choice = input("Enter your choice (1-3): ") 
     if choice == "1": 
