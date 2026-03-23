@@ -68,7 +68,7 @@ while True:
         except FileNotFoundError:
             print("No student records found.")
     elif choice == "5":
-        print("Exiting the program... Thank you for using the Student Record System!")
+        print("\nExiting the program... Thank you for using the Student Record System!")
         break
     else:
         print("Invalid choice. Please try again.")
